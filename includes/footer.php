@@ -1,5 +1,5 @@
 <footer>
     <div>
-        <a href="mentions_légales">Lentions legales</a>
+        <a href="mentions_légales">Mentions legales</a>
     </div>
 </footer>

@@ -9,14 +9,14 @@
 </head>
 
 <body>
-    
-<?php include "includes/header.php"; ?>
+
+    <?php require require_once "includes/header.php"; ?>
 
     <main>
         <section class="hero-section">
             <div>
-                <h1>faites de vos projet de la realité</h1>
-                <div>jlb dev web </div>
+                <h1>Faites de vos projet de la réalité</h1>
+                <div>Envoyer moi vos idées et je les réalise dans 15 jours </div>
             </div>
 
 
@@ -35,8 +35,9 @@
 
     </main>
 
-    
+
 
 </body>
-<?php include "includes/footer.php";?>
+<?php require_once "includes/footer.php"; ?>
+
 </html>
